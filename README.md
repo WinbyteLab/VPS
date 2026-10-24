@@ -1,11 +1,11 @@
 # Claude AI — стабильный доступ из неподдерживаемых регионов
 
-> **Техническое руководство по построению консистентной инфраструктуры доступа к Anthropic Claude из другой страны через собственный VPS-шлюз (VLESS + Reality) с минимальным риском блокировки аккаунта.**
-
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-blue)]()
 [![Stack](https://img.shields.io/badge/stack-VLESS%20%2B%20Reality%20%2B%203x--ui-green)]()
 [![Level](https://img.shields.io/badge/level-advanced-orange)]()
 [![Status](https://img.shields.io/badge/status-actively%20maintained-brightgreen)]()
+
+> **Техническое руководство по построению консистентной инфраструктуры доступа к Anthropic Claude из другой страны через собственный VPS-шлюз (VLESS + Reality) с минимальным риском блокировки аккаунта.**
 
 ---
 
